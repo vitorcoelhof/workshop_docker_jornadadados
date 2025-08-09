@@ -2,8 +2,10 @@
 
 Este projeto é uma aplicação web interativa desenvolvida em Python com Streamlit, voltada para demonstração de dashboards, gráficos e métricas em tempo real, pronta para ser executada em ambiente Docker. O app pode ser acessado no link:  https://workshop-docker-jornadadados.onrender.com/ (irá expirar em alguns dias hehe)
 
-## Objetivo
-O objetivo deste workshop é apresentar, de forma prática, como criar, personalizar e executar uma aplicação de dados moderna utilizando Streamlit e Docker, com foco em visualização, experiência do usuário e facilidade de deploy.
+Imagem do frontend:
+
+<img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/94987799-e32f-456b-a806-35aa62b31c7a" />
+
 
 ## Estrutura do Projeto
 
